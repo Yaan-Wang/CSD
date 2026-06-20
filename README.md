@@ -1,3 +1,3 @@
-# Countering Semantic Dispersion: Attribute-centric Reciprocal Learning for Bimodal Pavement Defect Segmentation of Tiny Defects
+# Countering Semantic Dispersion: Attribute-centric Reciprocal Learning for Bimodal Segmentation of Pavement Tiny Defects
 
 The code will be made publicly available upon acceptance of the paper.
